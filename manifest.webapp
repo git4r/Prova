@@ -1,0 +1,15 @@
+{
+  "name": "Accendi",
+  "version": "0.2",
+  "description": "A simple app",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Andrea C",
+      "url": "http://qualcosa.altro"
+  },
+  "icons": {
+    
+    "60":"/icons/on_60.png",
+    "128": "/icons/on_128.png"
+  }
+}
